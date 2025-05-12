@@ -1,0 +1,2 @@
+# Amazon_delivery_time_prediction
+This project aims to predict delivery times for e-commerce orders based on a variety of factors such as product size, distance, traffic conditions, and shipping method. Using the provided dataset, we will preprocess, analyze, and build regression models to accurately estimate delivery times. 
